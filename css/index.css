@@ -14,7 +14,7 @@
 }
 
 body{
-  background: url(extra-images/wall.jpg) no-repeat fixed center center;
+  background: url(../extra-images/wall.jpg) no-repeat fixed center center;
   background-size: cover;
 }  body::after{
       content: "";
