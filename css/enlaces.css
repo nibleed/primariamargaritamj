@@ -9,8 +9,6 @@ section{
     height: 150px;
     background: #4CD137;
     border-radius: 50%;
-    //: ;
-    outline: 2px solid red;
     padding-top: 30px;
     margin-left: 20px;
 }
