@@ -3,17 +3,6 @@ section{
   text-align:center;
 }
 
-.enlaces{
-  width: 120px;
-  height: 90px;
-  background:#4CD137;
-  border-radius:50%;
-//  outline:2px solid red;
-  padding-top:50px;
-  margin-left:20px;
- 
-}
-
 
 .enlaces {
     width: 150px;
