@@ -14,13 +14,16 @@ section{
  
 }
 
-.enlaces a{
-  display:block;
-  text-decoration:none;
-  display:block;  
-  font-weight:bold;
-  font-size:1.2em;
-  color:black;
+
+.enlaces {
+    width: 150px;
+    height: 150px;
+    background: #4CD137;
+    border-radius: 50%;
+    //: ;
+    outline: 2px solid red;
+    padding-top: 30px;
+    margin-left: 20px;
 }
 
 .enlaces:hover{
