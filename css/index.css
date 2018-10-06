@@ -162,8 +162,8 @@ nav .dropdown{
 }
 
 img{
-  max-width: 700px;
-  max-height:600px;
+  max-width: 850px;
+  max-height:900px;
 }
 
 label:hover ~ .panel{
