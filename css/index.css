@@ -163,6 +163,7 @@ nav .dropdown{
 
 img{
   max-width: 700px;
+  max-height:600px;
 }
 
 label:hover ~ .panel{
